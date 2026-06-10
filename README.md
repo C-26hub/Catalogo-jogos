@@ -131,4 +131,4 @@ https://catalogo-jogos.onrender.com
 ## Autor
 
 Maria Cecília
-Projeto desenvolvido para a disciplina de Desenvolvimento Mobile Fullstack com React Native.
+Projeto desenvolvido para a disciplina de Coding Mobile.
